@@ -1,0 +1,22 @@
+E001,Laptop,8,999.99,Dell,12
+E002,Smartphone,15,499.99,Samsung,6
+E003,Tablet,10,299.99,Apple,12
+E004,Smartwatch,12,199.99,Fitbit,1
+C001,Casual T-Shirt,20,29.99,M,Black
+C002,Jeans,15,59.99,L,Blue
+C003,Winter Jacket,8,89.99,XL,Brown
+C004,Summer Dress,12,45.99,S,Red
+B001,The Great Gatsby,5,15.99,F. Scott Fitzgerald,Classic
+B002,1984,7,18.99,George Orwell,Dystopian
+B003,To Kill a Mockingbird,6,16.99,Harper Lee,Classic
+B004,Python Programming,4,45.99,Mark Lutz,Technology
+H001,Wooden Chair,10,79.99,Wood,Living Room
+H002,Table Lamp,12,24.99,Metal,Bedroom
+H003,Garden Pot Set,8,34.99,Ceramic,Garden
+H004,Wall Clock,6,19.99,Plastic,Kitchen
+
+# New arrivals
+E005,Noise Cancelling Headphones,10,149.99,Sony,12
+C005,Summer Linen Shirt,18,34.99,L,White
+B005,Learning Java in 24 Hours,7,29.99,John Doe,Programming
+H005,Indoor Plant Set,15,39.99,Various,Living Room
