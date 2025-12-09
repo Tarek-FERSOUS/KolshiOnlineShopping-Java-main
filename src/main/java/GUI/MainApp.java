@@ -3,13 +3,10 @@ package GUI;
 import org.example.Product;
 import org.example.User;
 
-import com.asprise.ocr.sample.util.RoundedBorder;
-
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import java.awt.*;
-import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
